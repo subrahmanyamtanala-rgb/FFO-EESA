@@ -1,0 +1,4 @@
+├── main.tex          # IEEE LaTeX (complete paper)
+├── firefly_vm.py     # FFO-EESA simulation (8.2%)
+├── results.csv       # Raw data
+└── ffo_eesa.pdf      # Compiled paper
